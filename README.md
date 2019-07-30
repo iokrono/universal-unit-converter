@@ -1,3 +1,8 @@
+## Universal Unit Converter
+
+Simple exercise project with React Hooks. 
+- Demo URL: http://iokrono.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
