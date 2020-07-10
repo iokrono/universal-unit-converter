@@ -1,7 +1,7 @@
-## Universal Unit Converter
+## [WiP] Universal Unit Converter
 
 Simple exercise project with React Hooks. 
-- Demo URL: http://iokrono.com/
+- Demo URL: http://iokrono.com/land-calc/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
